@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37202'
     url: http://www.gutenberg.org/2009/agents/37202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36434#Catalogue-of-Publications--1902-of-the-Society-for-Promoting-Christian-Knowledge
 gutenberg_issued: '2011-06-15'
 gutenberg_type: Text
 identifiers:
